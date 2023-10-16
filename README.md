@@ -8,3 +8,6 @@ User can create their customized To-Do List, that data is also stored into a new
 
 User can also delete the completed task by checking box preaent at left
 ![Screenshot 2023-10-16 220941](https://github.com/doshiMiraj/To-Do-List/assets/114590608/154d9a84-921a-4519-85e1-c563b7c5d803)
+
+Responsive:
+![Screenshot 2023-10-16 222847](https://github.com/doshiMiraj/To-Do-List/assets/114590608/b6cd83ae-a0bb-4134-9ed5-1b02460db2ea)
